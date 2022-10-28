@@ -1,0 +1,9 @@
+# Bear compilation database (do generate it locally)
+compile_commands.json
+
+# Build artifacts
+.cache/
+build/
+*.elf
+*.3dsx
+*.smdh
